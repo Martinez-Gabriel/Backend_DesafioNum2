@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "title": "productoNumero1",
+    "price": 500,
+    "thumbnail": "ruta1"
+  },
+  {
+    "id": 2,
+    "title": "productoNumero2",
+    "price": 3000,
+    "thumbnail": "ruta2"
+  },
+  {
+    "id": 3,
+    "title": "productoNumero3",
+    "price": 10000,
+    "thumbnail": "ruta3"
+  },
+  {
+    "id": 4,
+    "title": "productoNumero4",
+    "price": 100,
+    "thumbnail": "ruta4"
+  },
+  {
+    "id": 5,
+    "title": "productoNumero5",
+    "price": 200,
+    "thumbnail": "ruta5"
+  }
+]
